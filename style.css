@@ -1,0 +1,134 @@
+.first{
+    position: fixed;
+    
+    
+}
+.nav1{
+    position: fixed;
+    float: left;
+    
+    
+}
+.nav2{
+    position: fixed;
+    
+    right: 10px;
+    
+    
+   
+}
+.aaa{
+    font-size: 150%;
+    padding: 0px 5px;
+    text-decoration: none;
+}
+
+.google{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 100px 80px 20px 80px;
+    
+    
+    
+}
+
+.search{
+    
+    display: flex;
+    border:1px solid  rgb(155, 146, 146);
+  /*  box-shadow: 3px 3px 3px 3px black;*/
+    width: 450px;
+    height: 15px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 200px;
+    
+    }
+
+
+
+#input{
+    height: 100%;
+    width: 100%;
+    border:none;
+    margin: auto;
+    padding: auto;
+}
+
+.thirt{
+    text-align: center;
+    margin-top:30px ;
+   
+}
+.feel{
+    padding: 10px;
+    border: 1px solid black;
+    border-color:rgb(211, 204, 204);
+    text-decoration: none; 
+    margin:20px ;
+    text-align: center;
+}
+.other{
+    text-align: center;
+    margin-top: 30px;
+}
+.first_footer{
+    background-color:rgb(160, 160, 160)    ;
+    height: 40px;
+    opacity: 0.6;
+    padding: 10px;
+    margin-bottom: 1px;
+
+    
+}
+.second_footer{
+    background-color:rgb(164, 164, 164)    ;
+    height: 40px;
+    opacity: 0.6;
+    padding: 10px;
+
+    
+}
+
+
+footer{
+    
+    
+    bottom: 0px;
+    
+    
+
+}
+.footer1{
+   
+    
+    
+    float: left;
+    font-size:15px;
+    
+    
+   
+    
+}
+.footer2{
+    
+    float: right;
+    font-size:15px;
+    
+    
+    
+    
+    
+}
+.footer_link{
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.ikinci_bolum{
+    height: 760px;
+    
+    padding: 50px;
+    
+}
